@@ -1,0 +1,2 @@
+# chatgpt_review_analysis
+chatgpt_review_analysis using google Collaboratory
